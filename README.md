@@ -30,17 +30,17 @@ npm i, run 'npm start'
 Use this to take and save notes on your computer.
   
 <h2 id= "screenshots">Screenshots</h2>
-<img src="public/assets/images/ss1.png" alt="screenshot of app">
-<img src="public/assets/images/ss2.png" alt="screenshot of app">
-<img src="public/assets/images/ss3.png" alt="screenshot of app">
+<img src="public/assets/images/ss.png" alt="screenshot of app">
+<img src="public/assets/images/ss.png" alt="screenshot of app">
+<img src="public/assets/images/ss.png" alt="screenshot of app">
 
 
 <h2 id= "contact">Contact</h2>
 <li>Name: Damaris Campos</li> 
 <li>Github: https://github.com/DCampos07</li> 
 <li>Portfolio: DCampos07.github.io</li>
-<li>Email: <a href="mailto:ssasenick412@gmail.com" target="_blank">dccampos00@gmail.com</a></li> 
-<li>LinkedIn:</li> 
+<li>Email: <a href="mailto:dccampos00@gmail.com" target="_blank">dccampos00@gmail.com</a></li> 
+<li>LinkedIn: </li> 
     
 <h2 id= "tests">Tests</h2>
 <img src="public/assets/images/note.gif" alt="gif of working app">
