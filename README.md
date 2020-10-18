@@ -30,9 +30,8 @@ npm i, run 'npm start'
 Use this to take and save notes on your computer.
   
 <h2 id= "screenshots">Screenshots</h2>
-<img src="public/assets/images/ss.png" alt="screenshot of app">
-<img src="public/assets/images/ss.png" alt="screenshot of app">
-<img src="public/assets/images/ss.png" alt="screenshot of app">
+<img src="public/assets/images/note-main.png" alt="screenshot of app">
+<img src="public/assets/images/note-note.png" alt="screenshot of app">
 
 
 <h2 id= "contact">Contact</h2>
@@ -43,4 +42,4 @@ Use this to take and save notes on your computer.
 <li>LinkedIn: </li> 
     
 <h2 id= "tests">Tests</h2>
-<img src="public/assets/images/note.gif" alt="gif of working app">
+<img src="public/assets/images/Note-Taker.mp4" alt="gif of working app">
