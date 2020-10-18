@@ -5,7 +5,11 @@
   "main": "serve.js",
   "dependencies": {
     "cfonts": "^2.8.6",
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "fs": "0.0.1-security",
+    "node": "^14.13.1",
+    "util": "^0.12.3",
+    "uuidv4": "^6.2.4"
   },
   "devDependencies": {},
   "scripts": {
