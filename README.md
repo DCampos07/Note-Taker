@@ -40,7 +40,7 @@ Use this to take and save notes on your computer.
 <li>Portfolio: DCampos07.github.io</li>
 <li>Email: <a href="mailto:dccampos00@gmail.com" target="_blank">dccampos00@gmail.com</a></li> 
 <li>LinkedIn: </li> 
+
     
 <h2 id= "tests">Tests</h2>
-![giphy](https://github.com/DCampos07/Note-Taker/blob/main/public/assets/images/Note-Taker.mp4)
 <img src="public/assets/images/Note-Taker.mp4" alt="gif of working app">
