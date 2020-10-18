@@ -1,13 +1,16 @@
 //requiring express
 const express = require("express");
-const express = require("cfonts");
-//express server required
+const cfonts = require("cfonts");
+
+// Tells node that we are creating an "express" server
 const app = express();
-//port required later in code
+
+// Sets an initial port. We"ll use this later in our listener
 const PORT = process.env.PORT || 7000;
-//express data parsing
-app.use(express.urlcoded({
-    extented:true
+
+// Sets up the Express app to handle data parsing
+app.use(express.urlencoded({
+  extended: true
 }));
 app.use(express.json());
 app.use(express.static("public"));
@@ -16,23 +19,22 @@ app.use(express.static("public"));
 require("./routes/apiroutes")(app);
 require("./routes/htmlroutes")(app);
 
-//listerner
+//listening
 app.listen(PORT, () => {
-    console.log("hello");
+  console.log("App listening on PORT " + PORT);
 });
 
-cfonts.say("Hello World", {
-    font: "chrome",
-    aling: "center",
-    colors: ["green", "magenta", "blue"],
-    background: "transparent",
-    letterSpacing: 1,
-    lineHeight: 1,
-    space: true,
-    maxLength: "0",
-    gradient: true,
-    independentGradient: false,
-    transitionGradient: false,
-    env: "node",
-  });
-
+cfonts.say("Hello, I love A+'s", {
+  font: "chrome",
+  align: "center",
+  colors: ["green", "magenta", "blue"],
+  background: "transparent",
+  letterSpacing: 1,
+  lineHeight: 1,
+  space: true,
+  maxLength: "0",
+  gradient: true,
+  independentGradient: false,
+  transitionGradient: false,
+  env: "node",
+});
