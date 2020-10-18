@@ -1,6 +1,6 @@
 const fs = require("fs");
 const util = require("util");
-const uuidv4 = require("uuid/v4");
+const { v4: uuidv4 } = require('uuid');
 let jsonData = require("../db/db.json");
 
 const writeFileAsync = util.promisify(fs.writeFile);

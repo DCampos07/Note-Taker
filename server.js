@@ -6,7 +6,7 @@ const cfonts = require("cfonts");
 const app = express();
 
 // Sets an initial port. We"ll use this later in our listener
-const PORT = process.env.PORT || 7000;
+const PORT = process.env.PORT || 3000;
 
 // Sets up the Express app to handle data parsing
 app.use(express.urlencoded({
@@ -24,7 +24,7 @@ app.listen(PORT, () => {
   console.log("App listening on PORT " + PORT);
 });
 
-cfonts.say("Hello, I love A+'s", {
+cfonts.say("Note Taker", {
   font: "chrome",
   align: "center",
   colors: ["green", "magenta", "blue"],
