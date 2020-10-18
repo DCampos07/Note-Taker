@@ -1,6 +1,6 @@
 //requiring express
-const express = required("express");
-const express = required("cfonts");
+const express = require("express");
+const express = require("cfonts");
 //express server required
 const app = express();
 //port required later in code
