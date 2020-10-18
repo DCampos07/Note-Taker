@@ -24,7 +24,7 @@ app.listen(PORT, () => {
   console.log("App listening on PORT " + PORT);
 });
 
-cfonts.say("Note Taker", {
+cfonts.say("Start the Note Taker App", {
   font: "chrome",
   align: "center",
   colors: ["green", "magenta", "blue"],
