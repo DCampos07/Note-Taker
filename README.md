@@ -42,4 +42,4 @@ Use this to take and save notes on your computer.
 <li>LinkedIn: </li> 
     
 <h2 id= "tests">Tests</h2>
-<img src="public/assets/images/Note-Taker.mp4" alt="gif of working app">
+<img src="https://media.giphy.com/media/4stBDUifQQSSBQgDO5/source.mov" alt="gif of working app">
