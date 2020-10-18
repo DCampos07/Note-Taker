@@ -43,4 +43,4 @@ Use this to take and save notes on your computer.
 
     
 <h2 id= "tests">Tests</h2>
-<img src="public/assets/images/Note-Taker.mp4" alt="gif of working app">
+<img src="../public/assets/images/NT.mp4" alt="gif of working app">
