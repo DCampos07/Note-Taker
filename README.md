@@ -39,7 +39,7 @@ Use this to take and save notes on your computer.
 <li>Github: https://github.com/DCampos07</li> 
 <li>Portfolio: DCampos07.github.io</li>
 <li>Email: <a href="mailto:dccampos00@gmail.com" target="_blank">dccampos00@gmail.com</a></li> 
-<li>LinkedIn: </li> 
+<li>LinkedIn: https://www.linkedin.com/in/damaris-c-870a1472/</li> 
 
     
 <h2 id= "tests">Tests</h2>
