@@ -18,6 +18,7 @@ require("./routes/htmlroutes")(app);
 
 //listerner
 app.listen(PORT, () => {
+    console.log("hello");
 });
 
 cfonts.say("Hello World", {

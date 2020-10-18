@@ -1,0 +1,26 @@
+{
+  "name": "Note-Taker",
+  "version": "1.0.0",
+  "description": "<img align=\"left\" src=\"https://img.shields.io/badge/License-MIT-green\" alt=\"license\">\r <img align=\"right\" width=\"100\" height=\"100\" src=\"https://avatars0.githubusercontent.com/u/68753563?s=400&u=db8ed5c85d35601b1cace358ee79fa43b9f12676&v=4\" alt=\"Github Profile Image\"><hr>",
+  "main": "serve.js",
+  "dependencies": {
+    "cfonts": "^2.8.6",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DCampos07/Note-Taker.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DCampos07/Note-Taker/issues"
+  },
+  "homepage": "https://github.com/DCampos07/Note-Taker#readme"
+}
